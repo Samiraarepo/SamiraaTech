@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+To+Samira+Rostami's+GitHub+Profile)](https://git.io/typing-svg)
+
 <!--
 **aaramiss/aaramiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning JavaScripts & Front-end Skills
+- 👯 I’m looking to collaborate on Front-end Projects
