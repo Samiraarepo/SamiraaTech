@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 📫 Contact me on <a href="https://www.linkedin.com/in/samira-rostamizade/" title="Linkedin">Linkedin</a> or  <a href="https://t.me/samirarostamizade" title="Telegram">Telegram</a>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Samira#0100) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/samira0100) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samira-rostamizade) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8309078/samira-rostami-zade) 
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/aaramiss) 
