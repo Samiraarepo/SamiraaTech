@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on Front-end Projects<br>
 🌱 I’m currently learning javascript & Front-end Skills<br>
 💬 Ask me about working on open source projects<br>
-📫 Contact me on <a href="https://www.linkedin.com/in/samira-rostamizade/" title="Linkedin">Linkedin</a> or  <a href="https://t.me/samirarostamizade" title="Telegram">Telegram</a>
+📫 Contact me on <a href="https://www.linkedin.com/in/samira-rostamizade/" title="Linkedin">Linkedin</a> or <a href="https://t.me/samirarostamizade" title="Telegram">Telegram</a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/samira0100) 
